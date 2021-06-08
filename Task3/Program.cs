@@ -49,11 +49,13 @@ public class Program {
     }
     public void PrintMenu() {
         Console.Write("\nHMAC: "); Console.WriteLine(BitConverter.ToString(hash).Replace("-", ""));
-        Console.WriteLine("Available moves:"); for (int i = 0; i < args.Length; i++) Console.WriteLine((i + 1) + " - " + args[i]);
+        Console.WriteLine("Available moves:"); 
+        for (int i = 0; i < args.Length; i++) Console.WriteLine((i + 1) + " - " + args[i]);
         Console.WriteLine("0 - Exit");
     }
     public int Input() {
         int playerId;
+        Console.Write("Enter your move: ");
         string input = Console.ReadLine();
         try { playerId = Convert.ToInt32(input); } catch { playerId = -1; }
         return playerId;
