@@ -1,0 +1,16 @@
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.exe
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.deps.json
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.dll
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\ref\Task3.dll
+D:\MyScripts\js-basics\Task3\bin\Debug\net5.0\Task3.pdb
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.csproj.AssemblyReference.cache
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.dll
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\ref\Task3.dll
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.pdb
+D:\MyScripts\js-basics\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
