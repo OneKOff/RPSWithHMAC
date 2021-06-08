@@ -4,7 +4,7 @@ using System.Text;
 using System.Security.Cryptography;
 
 public class Program {
-    string[] args;    
+    string[] args;
     RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider();
     byte[] key = new byte[16];
     HMACSHA256 hmac;
