@@ -41,7 +41,6 @@ public class Program {
     public void GenerateTurn() {
         hmac = new HMACSHA256(key);
         byte[] moveName = Encoding.Default.GetBytes(args[compId]);
-        Console.WriteLine(BitConverter.ToString(moveName));
         hash = hmac.ComputeHash(moveName);
     }
     public bool GameData() {
